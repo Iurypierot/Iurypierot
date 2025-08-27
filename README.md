@@ -32,7 +32,7 @@ Se quiser trocar uma ideia, colaborar em projetos ou apenas bater um papo sobre 
     <img src="https://img.shields.io/badge/GitHub-Iurypierot-black?style=for-the-badge&logo=github" />
   </a>  
   <br>
-  <a href="https://wa.me/55SEUNUMERO" target="_blank">
+  <a href="https://wa.me/5561991458674" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-Contato-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>  
   <br>
