@@ -36,7 +36,7 @@ Se quiser trocar uma ideia, colaborar em projetos ou apenas bater um papo sobre 
     <img src="https://img.shields.io/badge/WhatsApp-Contato-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>  
   <br>
- <a href="https://SUA-URL-DA-PAGINA-DE-MANUTENCAO.vercel.app">
+ <a href="https://iurypierot.github.io/Manuten-o/">
     <img src="https://img.shields.io/badge/Portfólio-Manutenção-4CAF50?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 </p>
